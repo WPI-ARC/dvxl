@@ -1,0 +1,8 @@
+*.pyc
+*.o
+*.so
+*.a
+*~
+*.cbp
+*.user
+*.svn
